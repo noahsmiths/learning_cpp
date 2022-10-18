@@ -1,0 +1,5 @@
+# ninja log v5
+280	314	1666124538695419392	learning_cpp	5120c919979ec251
+2	414	1666124495952848545	CMakeFiles/learning_cpp.dir/main.cpp.o	1489a754ea39de7a
+0	49	1666125127766363279	build.ninja	5d24cd15d0ad8e00
+2	280	1666124538660727762	CMakeFiles/learning_cpp.dir/Employee.cpp.o	95a1579cd017861
